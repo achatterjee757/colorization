@@ -1,0 +1,15 @@
+The dataset used for the experiment is taken from " Tensorflow for poets example"(Flower dataset).
+
+You can directly download the dataset from http://download.tensorflow.org/example_images/flower_photos.tgz
+
+packages required:-
+1) tensorflow(1.13)
+2) opencv (3.4.x)
+3) numpy
+4) tqdm
+
+download the dataset and provide the ath of the dataset in the path present in the colorize.py script
+
+The waste_colorize_kl directory is the collection of output from each and every epochs. In this experiment, I have ran approx 1130 epochs. Try running more for better otcome.
+
+Happy experimenting!!!!!!!!!!!!!!!!!!!
